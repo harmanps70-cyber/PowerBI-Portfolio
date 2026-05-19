@@ -12,13 +12,12 @@ This project analyzes Company ABC’s sales and gross profit performance across 
 - Applied advanced DAX measures for time intelligence (YTD, PYTD, dynamic switching) and conditional formatting to highlight growth vs decline.
 - Delivered business insights into year-over-year growth, seasonal patterns, and country/product performance variations.
 
-**Business Insights
-**
+## Business Insights
 - Identified countries and product types with declining performance vs prior year.
 - Highlighted seasonal trends in monthly sales and gross profit.
 - Provided a flexible reporting tool for management to track KPIs across multiple dimensions.
 
-**Screenshots**
+## Screenshots
 - Dashboard overview
 - KPI cards
 - Monthly trends chart
