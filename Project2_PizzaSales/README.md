@@ -14,7 +14,7 @@ This project analyzes pizza sales data to uncover customer preferences, sales tr
 
 ## Business Insights
 - Fridays had the highest order volumes, showing peak demand.
-- Supreme and Chicken pizzas were top categories by revenue.
+- Supreme and Classic pizzas were top categories by revenue.
 - Medium and Large pizzas dominated sales by size.
 - Seasonal demand fluctuations observed across months.
 
