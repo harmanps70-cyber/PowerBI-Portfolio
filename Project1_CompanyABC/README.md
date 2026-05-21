@@ -18,7 +18,7 @@ This project analyzes Company ABC’s sales and gross profit performance across 
 - Provided a flexible reporting tool for management to track KPIs across multiple dimensions.
 
 ## Screenshots
-![Dashboard Overview](Porfolio1/dashboard_overview.png)
+- Dashboard overview
 - KPI cards
 - Monthly trends chart
 - Country performance treemap
